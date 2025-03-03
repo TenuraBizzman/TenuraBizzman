@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tenura Pasandul @ Bizzman 👋
 
 ![Banner](https://your-banner-url.com/banner.png)
 
